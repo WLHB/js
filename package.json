@@ -1,6 +1,6 @@
 {
   "name": "wechat-js-123",
-  "version": "0.0.2",
+  "version": "0.0.5",
   "main": "wechat.js",
   "author": "WLHB",
   "description": "from sofish modify by https://github.com/WLHB/js",
@@ -25,9 +25,12 @@
     "build": "node_modules/.bin/uglifyjs wechat.js --mangle --compress -o dist/wechat.min.js --source-map dist/wechat.min.js.map --source-map-url wechat.js",
     "watch": "node_modules/.bin/rewatch wechat.js -c 'npm run build'"
   },
+  "Dependencies": {
+    "time-sheet.js":"~0.0.1"
+  },
   "devDependencies": {
     "uglify-js": "^2.4.15",
     "rewatch": "~0.2.2",
-    "Timesheet.js":"~0.0.1"
+    "time-sheet.js":"~0.0.1"
   }
 }
