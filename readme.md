@@ -1,6 +1,6 @@
 # 重要提示：
 
-目前，新版的微信 js 出来了，你可能暂时不需要这个版本了。详情见：[微信 JSSDK 说明](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html#.E5.9B.BE.E5.83.8F.E6.8E.A5.E5.8F.A3)。这个版本非常强大，可以传图图片、语音，同时也有更高的要求，需要签名。
+详情见：[微信 JSSDK 说明](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html#.E5.9B.BE.E5.83.8F.E6.8E.A5.E5.8F.A3)。这个版本非常强大，可以传图图片、语音，同时也有更高的要求，需要签名。
 
 
 ----------
